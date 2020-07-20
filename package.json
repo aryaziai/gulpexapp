@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/aryaziai/gulpexapp#readme",
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^7.1.0"
   }
 }
